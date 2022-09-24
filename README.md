@@ -53,6 +53,6 @@ I am a Data Analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :fire: My Projects :
 | Project name  | Date | Discription | Technology | Key words | Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Trip Advisor  | 01.03.2022  | Predicting the rating of a restaurant based on the TripAdvisor data | Pandas, numpy, math, seaborn, sklearn | #LinearRegression, #RandomForestRegressor, #Prediction rating  | https://goo.su/TripAdv |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Trip Advisor  | 01.03.2022  | Predicting the rating of a restaurant based on the TripAdvisor data | Pandas, numpy, math, seaborn, sklearn | #Linear Regression, #Random Forest Regressor, #Prediction Rating  | https://goo.su/TripAdv |
 | ...  | ...  | ...  | ...  | ...  | ...  |
