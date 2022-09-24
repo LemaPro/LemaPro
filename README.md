@@ -15,3 +15,40 @@
 <div id="stat" align="center">
 <img src="https://komarev.com/ghpvc/?username=LemaPro&style=flat-square&color=blue" alt=""/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Data Analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Data Analist in HR department.
+
+
+- :zap: In my free time, I mentor students of IT courses , participate in hackathons and help non - profit organizations with data analysis..
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LemaPro-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/grigory-lemaev-68a3381b6)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"title="Numpy" alt="Numoy" width="40" height="40"/>
+</div>
+
+---
+
+### :trophy: My GitHub Profile Trophy :
+[![trophy](https://github-profile-trophy.vercel.app/?username=LemaPro)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### :fire: My Projects :
