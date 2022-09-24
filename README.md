@@ -47,8 +47,12 @@ I am a Data Analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ---
 
 ### :trophy: My GitHub Profile Trophy :
-[![trophy](https://github-profile-trophy.vercel.app/?username=LemaPro)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=LemaPro&row=1)
 
 ---
 
 ### :fire: My Projects :
+| Project name  | Date | Discription | Technology | Key words | Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Trip Advisor  | 01.03.2022  | Predicting the rating of a restaurant based on the TripAdvisor data | Pandas, numpy, math, seaborn, sklearn | #LinearRegression, #RandomForestRegressor, #Prediction rating  | https://goo.su/TripAdv |
+| ...  | ...  | ...  | ...  | ...  | ...  |
