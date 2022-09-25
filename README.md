@@ -54,6 +54,7 @@ I am a Data Analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :fire: My Projects :
 | Project name  | Date | Discription | Technology | Key words | Link |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Improving CV with NLP  | 25.09.2022  | Improve the resume by increasing the similarity of the resume and job description using NLP | Spacy, nltk, rake, plotly, seaborn, fuzz, requests | #NLP, #Text optimization, #CV, #Job search  | https://goo.su/NLP_in_CV |
-| Trip Advisor  | 01.03.2022  | Predicting the rating of a restaurant based on the TripAdvisor data | Pandas, numpy, math, seaborn, sklearn | #Linear Regression, #Random Forest Regressor, #Prediction Rating  | https://goo.su/TripAdv |
+| Improving CV with NLP  | 25.09.2022  | Improve the resume by increasing the similarity of the resume and job description using NLP | Spacy, nltk, rake, plotly, seaborn, fuzz, requests | #NLP, #Text optimization, #CV, #Job search  | [Code](https://goo.su/NLP_in_CV) |
+| Telegram bot for the sales director  | 27.03.2022  | Creation of Telegram bot for automatic sending of reports to the sales director | Pandas, telebot, psycopg2, seaborn, requests | #Telegram bot, #Reporting, #Sales Analysis  | [Code](https://goo.su/Tg_bot), [Presentation](https://s3.amazonaws.com/appforest_uf/f1648057035680x181310419851467460/Задание%201%20конкурса%20аналитиков.pdf) |
+| Trip Advisor  | 01.03.2022  | Predicting the rating of a restaurant based on the TripAdvisor data | Pandas, numpy, math, seaborn, sklearn | #Linear Regression, #Random Forest Regressor, #Prediction Rating  | [Code](https://goo.su/TripAdv) |
 | ...  | ...  | ...  | ...  | ...  | ...  |
