@@ -54,5 +54,6 @@ I am a Data Analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :fire: My Projects :
 | Project name  | Date | Discription | Technology | Key words | Link |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Improving CV with NLP  | 25.09.2022  | Improve the resume by increasing the similarity of the resume and job description using NLP | Spacy, nltk, rake, plotly, seaborn, fuzz, requests | #NLP, #Text optimization, #CV, #Job search  | https://goo.su/NLP_in_CV |
 | Trip Advisor  | 01.03.2022  | Predicting the rating of a restaurant based on the TripAdvisor data | Pandas, numpy, math, seaborn, sklearn | #Linear Regression, #Random Forest Regressor, #Prediction Rating  | https://goo.su/TripAdv |
 | ...  | ...  | ...  | ...  | ...  | ...  |
